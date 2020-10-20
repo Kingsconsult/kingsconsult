@@ -20,11 +20,11 @@ I am Kingsley Okpara, a Software Developer skilled at technical leadership (with
 
 💬 Ask me about Laravel
 
-👯 I’m looking to collaborate on any Laravel Open-Source project
+- 👯 I’m looking to collaborate on any Laravel Open-Source project
 
-🤔 I’m looking for help with new challenges in terms of work
+- 🤔 I’m looking for help with new challenges in terms of work
 
-📫 How to reach me: kingsconsult001@gmail.com,  +234 806 605 6233
+- 📫 How to reach me: kingsconsult001@gmail.com,  +234 806 605 6233
 <p align="center">
 <a href="https://twitter.com/KingsOkpara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kings twitter account" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/kingsley-okpara-37532b70/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kings linkedIn account" height="30" width="30" /></a>
