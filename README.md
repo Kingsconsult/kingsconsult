@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I am Kingsley Okpara, a Software Developer skilled at technical leadership (with over 160 programmers as followers on [dev.to](https://dev.to/kingsconsult)), technical writing, communication, and presentations. Experienced in the full project life cycle from design to implementation to integration. A fast learner, self-motivated and a team player, a tech enthusiast and always want to learn new things
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingsconsult" alt="smdedar" /> </p>
+
+
 💬 Ask me about Laravel
 
 👯 I’m looking to collaborate on any Laravel Open-Source project
