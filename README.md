@@ -25,10 +25,10 @@ I am Kingsley Okpara, a Software Developer skilled at technical leadership (with
 
 📫 How to reach me: kingsconsult001@gmail.com,  +234 806 605 6233
 <p align="center">
-<a href="https://twitter.com/KingsOkpara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kings twitter" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/kingsley-okpara-37532b70/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smdedar" height="20" width="20" /></a>
-<a href="https://www.facebook.com/kingsley.k.okpara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thededar" height="20" width="20" /></a>
-<a href="https://dev.to/kingsconsult" target="blank"><img align="center" src="https://res.cloudinary.com/kingsconsult/image/upload/v1603152283/dev.to_nbshoy.png" alt="thededar" height="20" width="20" /></a>
+<a href="https://twitter.com/KingsOkpara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kings twitter account" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/kingsley-okpara-37532b70/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kings linkedIn account" height="30" width="30" /></a>
+<a href="https://dev.to/kingsconsult" target="blank"><img align="center" src="https://res.cloudinary.com/kingsconsult/image/upload/v1603152283/dev.to_nbshoy.png" alt="kings dev.to account" height="30" width="30" /></a>
+<a href="https://www.facebook.com/kingsley.k.okpara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kings facebook acouunt" height="30" width="30" /></a>
 </p>
 
 <h4>Languages I am competent with</h4>
