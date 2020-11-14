@@ -61,13 +61,10 @@ A Software Developer skilled at technical leadership (with over 480 programmers 
 <img src="https://img.shields.io/badge/github-111111.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
 </p>
 <a href="https://github.com/Kingsconsult/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingsconsult&count_private=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingsconsult&count_private=true&theme=vue" />
 </a>
 <a href="https://github.com/Kingsconsult/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsconsult&layout=compact&theme=vue" />
-</a>
-<a href="https://github.com/Kingsconsult/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingsconsult&count_private=true&theme=radical" />
 </a>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kingsconsult" alt="kings profile view" /> </p>
 
