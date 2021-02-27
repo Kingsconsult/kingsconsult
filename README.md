@@ -48,7 +48,6 @@ A Software Developer skilled at technical leadership (with over 500 programmers 
 <img src="https://img.shields.io/badge/cakePHP-CF3A42.svg?&style=for-the-badge&logo=cakephp&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/django-092D1F.svg?&style=for-the-badge&logo=django&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/react-48CEF7.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/wordpress-207196.svg?&style=for-the-badge&logo=wordpress&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/flask-020202.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
 </p>
 
