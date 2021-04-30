@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 A Software Developer skilled at technical leadership (with over 500 programmers as followers on [dev.to](https://dev.to/kingsconsult)), technical writing, communication, and presentations. Experienced in the full project life cycle from design to implementation to integration. A fast learner, self-motivated and a team player, a tech enthusiast and always want to learn new things
 
 
-- 💬 Ask me about Laravel
+- 💬 Ask me about Laravel, PHP
 
 - 👯 I’m looking to collaborate on any Laravel Open-Source project
 
