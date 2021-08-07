@@ -20,7 +20,7 @@ A Software Developer skilled at technical leadership (with about a thousand prog
 
 - 💬 Ask me about Laravel, PHP
 
-- 👯 I’m looking to collaborate on any Laravel Open-Source project
+- 👯 I’m looking to collaborate on any Laravel && Vue Open-Source project
 
 - 🤔 I’m looking for help with new challenges in terms of work
 
