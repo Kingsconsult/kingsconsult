@@ -34,8 +34,9 @@ A Software Developer skilled at technical leadership (with about a thousand prog
 
 <h4>Languages I am competent with</h4>
 <p align="left">
-<img src="https://img.shields.io/badge/python-4B8BBE.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/php-474A8A.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/python-4B8BBE.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-CFB430.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/html-DD4B25.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/css-254BDD.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25" width="60"/>
