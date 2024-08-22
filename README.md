@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A Software Developer skilled at technical leadership (with about a thousand programmers as followers on [dev.to](https://dev.to/kingsconsult)), technical writing, communication, and presentations. Experienced in the full project life cycle from design to implementation to integration. A fast learner, self-motivated and a team player, a tech enthusiast and always want to learn new things
+Highly skilled and results-driven Software Engineer with over 5 years of experience. Proven expertise in building scalable and robust applications using Java, Spring MVC, Spring Boot, PHP, Laravel and related technologies. Strong background in e-commerce, web applications, RESTful services, and recent experience as a Big Data Engineer using Java, Python, and Spark. Adept at collaborating within cross-functional teams to deliver innovative solutions.
 
 
-- 💬 Ask me about Laravel, PHP
+- 💬 Ask me about Laravel, PHP, Spring, Java
 
-- 👯 I’m looking to collaborate on any Laravel && Vue Open-Source project
+- 👯 I’m looking to collaborate on any Laravel && Java
 
-- 🤔 I’m looking for help with new challenges in terms of work
 
 - 📫 How to reach me: kingsconsult001@gmail.com,  +234 806 605 6233
 <p align="center">
